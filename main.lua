@@ -1,4 +1,6 @@
+
 -- PURPLE HUB 💜
+-- Draggable mobile GUI
 
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
